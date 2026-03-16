@@ -1,2 +1,3 @@
 # research-programs
-https://ethandavidscott.com
+https://ethandavidscott.com <br>
+https://github.com/edscott321/research-programs
